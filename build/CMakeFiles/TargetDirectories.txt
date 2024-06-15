@@ -1,0 +1,7 @@
+/home/maximuskatsoulis985/MinerMadness/build/CMakeFiles/MinerMadness.dir
+/home/maximuskatsoulis985/MinerMadness/build/CMakeFiles/edit_cache.dir
+/home/maximuskatsoulis985/MinerMadness/build/CMakeFiles/rebuild_cache.dir
+/home/maximuskatsoulis985/MinerMadness/build/CMakeFiles/list_install_components.dir
+/home/maximuskatsoulis985/MinerMadness/build/CMakeFiles/install.dir
+/home/maximuskatsoulis985/MinerMadness/build/CMakeFiles/install/local.dir
+/home/maximuskatsoulis985/MinerMadness/build/CMakeFiles/install/strip.dir
